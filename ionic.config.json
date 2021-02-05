@@ -1,0 +1,7 @@
+{
+  "name": "latihanken",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
